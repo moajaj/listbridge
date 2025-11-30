@@ -1,4 +1,4 @@
-```json
+
 {
   "name": "listbridge",
   "version": "1.0.0",
@@ -26,4 +26,4 @@
     "postcss": "^8.4.24"
   }
 }
-```
+
