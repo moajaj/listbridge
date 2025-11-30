@@ -1,4 +1,4 @@
-```typescript
+
 import React from 'react';
 import { Zap, DollarSign, Sparkles } from 'lucide-react';
 import { Button } from './ui/button';
@@ -100,4 +100,4 @@ export function LandingPage({ onGetStarted }: LandingPageProps) {
     </div>
   );
 }
-```
+
