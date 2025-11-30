@@ -1,4 +1,4 @@
-```typescript
+
 import React from 'react';
 
 interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {
@@ -38,4 +38,4 @@ export function Button({
     </button>
   );
 }
-```
+
