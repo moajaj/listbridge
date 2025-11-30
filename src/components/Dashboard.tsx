@@ -1,4 +1,4 @@
-```typescript
+
 import React, { useState } from 'react';
 import { Plus, Home, List, MessageCircle, User, Zap, Package, TrendingUp } from 'lucide-react';
 import { Button } from './ui/button';
@@ -180,4 +180,4 @@ export function Dashboard({ onLogout }: DashboardProps) {
     </div>
   );
 }
-```
+
